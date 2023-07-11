@@ -6,6 +6,5 @@ Our aim is to build deep CNN (convolutional neural networks) model, using classi
 Takes a DNA sequence and predicts the type of the cell .
 Based on chromatin accessibility (regions contains transcription factors) .
 
-![Uploading image.png…]()
 
 
